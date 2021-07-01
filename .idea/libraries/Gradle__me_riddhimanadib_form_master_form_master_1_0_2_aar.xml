@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: me.riddhimanadib.form-master:form-master:1.0.2@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/724a3f80e4be273a58da2d2787ea6445/jetified-form-master-1.0.2/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/724a3f80e4be273a58da2d2787ea6445/jetified-form-master-1.0.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/724a3f80e4be273a58da2d2787ea6445/jetified-form-master-1.0.2/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/me.riddhimanadib.form-master/form-master/1.0.2/297c43d4cfdfafc24bef7205a84cb2001123f2fd/form-master-1.0.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/me.riddhimanadib.form-master/form-master/1.0.2/6152628d3dddf372217f3e4100f14006e454136e/form-master-1.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.dexafree:materiallist:3.2.1@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/440e2b69ac33e311f8350cc371a434e3/jetified-materiallist-3.2.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/440e2b69ac33e311f8350cc371a434e3/jetified-materiallist-3.2.1/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/440e2b69ac33e311f8350cc371a434e3/jetified-materiallist-3.2.1/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.dexafree/materiallist/3.2.1/40d7c3afea46896cf7d3ea9dec3858c9ab2fd61d/materiallist-3.2.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.dexafree/materiallist/3.2.1/6acd595c779e9caad20843d063da2ea2a125d263/materiallist-3.2.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

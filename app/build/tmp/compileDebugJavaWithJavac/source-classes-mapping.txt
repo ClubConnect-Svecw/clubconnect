@@ -1,0 +1,106 @@
+com/ruuha/bmscms/RegisterPageCopy.java
+ com.ruuha.bmscms.RegisterPageCopy
+ com.ruuha.bmscms.RegisterPageCopy$1
+com/ruuha/bmscms/ClubList.java
+ com.ruuha.bmscms.ClubList
+ com.ruuha.bmscms.ClubList$1
+ com.ruuha.bmscms.ClubList$1$1
+ com.ruuha.bmscms.ClubList$2
+ com.ruuha.bmscms.ClubList$3
+ com.ruuha.bmscms.ClubList$4
+ com.ruuha.bmscms.ClubList$5
+com/ruuha/bmscms/SQLiteDBHelper.java
+ com.ruuha.bmscms.SQLiteDBHelper
+com/ruuha/bmscms/StudentList.java
+ com.ruuha.bmscms.StudentList
+ com.ruuha.bmscms.StudentList$1
+ com.ruuha.bmscms.StudentList$2
+com/ruuha/bmscms/StudentRecyclerAdapter.java
+ com.ruuha.bmscms.StudentRecyclerAdapter
+ com.ruuha.bmscms.StudentRecyclerAdapter$BeneficiaryViewHolder
+com/ruuha/bmscms/EventCrud.java
+ com.ruuha.bmscms.EventCrud
+ com.ruuha.bmscms.EventCrud$1
+ com.ruuha.bmscms.EventCrud$2
+com/ruuha/bmscms/CustomClubInflate.java
+ com.ruuha.bmscms.CustomClubInflate
+com/ruuha/bmscms/MyDataManager.java
+ com.ruuha.bmscms.MyDataManager
+com/ruuha/bmscms/Splashscreen.java
+ com.ruuha.bmscms.Splashscreen
+ com.ruuha.bmscms.Splashscreen$1
+com/ruuha/bmscms/StudentContract.java
+ com.ruuha.bmscms.StudentContract
+ com.ruuha.bmscms.StudentContract$StudentEntry
+com/ruuha/bmscms/ContactRegister.java
+ com.ruuha.bmscms.ContactRegister
+com/ruuha/bmscms/InputValidation.java
+ com.ruuha.bmscms.InputValidation
+com/ruuha/bmscms/DBHelperClub.java
+ com.ruuha.bmscms.DBHelperClub
+com/ruuha/bmscms/LoginPage.java
+ com.ruuha.bmscms.LoginPage
+ com.ruuha.bmscms.LoginPage$1
+com/ruuha/bmscms/ClubListAdapter.java
+ com.ruuha.bmscms.ClubListAdapter
+ com.ruuha.bmscms.ClubListAdapter$1
+ com.ruuha.bmscms.ClubListAdapter$viewHolder
+com/ruuha/bmscms/HomePage.java
+ com.ruuha.bmscms.HomePage
+ com.ruuha.bmscms.HomePage$1
+ com.ruuha.bmscms.HomePage$2
+ com.ruuha.bmscms.HomePage$3
+ com.ruuha.bmscms.HomePage$4
+ com.ruuha.bmscms.HomePage$5
+ com.ruuha.bmscms.HomePage$6
+ com.ruuha.bmscms.HomePage$7
+com/ruuha/bmscms/ListClubs.java
+ com.ruuha.bmscms.ListClubs
+ com.ruuha.bmscms.ListClubs$1
+ com.ruuha.bmscms.ListClubs$2
+ com.ruuha.bmscms.ListClubs$3
+com/ruuha/bmscms/Adminhome.java
+ com.ruuha.bmscms.Adminhome
+ com.ruuha.bmscms.Adminhome$1
+ com.ruuha.bmscms.Adminhome$2
+com/ruuha/bmscms/Event.java
+ com.ruuha.bmscms.Event
+com/ruuha/bmscms/MainActivity.java
+ com.ruuha.bmscms.MainActivity
+ com.ruuha.bmscms.MainActivity$1
+ com.ruuha.bmscms.MainActivity$2
+com/ruuha/bmscms/DatabaseHelper.java
+ com.ruuha.bmscms.DatabaseHelper
+com/ruuha/bmscms/StudentDetailsInput.java
+ com.ruuha.bmscms.StudentDetailsInput
+com/ruuha/bmscms/SplashActivity.java
+ com.ruuha.bmscms.SplashActivity
+ com.ruuha.bmscms.SplashActivity$1
+com/ruuha/bmscms/OTPRegister.java
+ com.ruuha.bmscms.OTPRegister
+ com.ruuha.bmscms.OTPRegister$1
+ com.ruuha.bmscms.OTPRegister$2
+ com.ruuha.bmscms.OTPRegister$3
+ com.ruuha.bmscms.OTPRegister$4
+com/ruuha/bmscms/BuildConfig.java
+ com.ruuha.bmscms.BuildConfig
+com/ruuha/bmscms/StudentGetterSetter.java
+ com.ruuha.bmscms.StudentGetterSetter
+com/ruuha/bmscms/EventHelper.java
+ com.ruuha.bmscms.EventHelper
+com/ruuha/bmscms/AboutDev.java
+ com.ruuha.bmscms.AboutDev
+com/ruuha/bmscms/LoginList.java
+ com.ruuha.bmscms.LoginList
+ com.ruuha.bmscms.LoginList$1
+ com.ruuha.bmscms.LoginList$2
+com/ruuha/bmscms/Adminlogin.java
+ com.ruuha.bmscms.Adminlogin
+ com.ruuha.bmscms.Adminlogin$1
+com/ruuha/bmscms/AskUid.java
+ com.ruuha.bmscms.AskUid
+com/ruuha/bmscms/EventHandler.java
+ com.ruuha.bmscms.EventHandler
+ com.ruuha.bmscms.EventHandler$1
+ com.ruuha.bmscms.EventHandler$2
+ com.ruuha.bmscms.EventHandler$3
